@@ -16,4 +16,29 @@ fn main() {
 
     // Special formatting can be specified after a `:`.
     println!("{} of {:b} people know binary, the other half doesn't", 1, 2);
+
+    
+    // You can right-align text with a specified width. This will output
+    // "     1". 5 white spaces and a "1".
+    println!("{number:>width$}", number=1, width=3);
+
+    
+    // You can pad numbers with extra zeroes. This will output "000001".
+    println!("{number:d>width$}", number=1, width=6);
+
+
+    // Rust even checks to make sure the correct number of arguments are
+    // used.
+    println!("My name is {0}, {1} {0}", "Bond", "James");
+    // FIXME ^ Add the missing argument: "James"
+
+     // Create a structure named `Structure` which contains an `i32`.
+     #[allow(dead_code)]
+     struct Structure(i32);
+     
+     // However, custom types such as this structure require more complicated
+    // handling. This will not work.
+
+    // println!("This struct `{}` won't print...", Structure(3));
+
 }
