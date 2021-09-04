@@ -1,8 +1,8 @@
-pub fn function() {
-    println!("called `my::nested::function()`");
-}
-
-#[allow(dead_code)]
-fn private_function() {
-    println!("called `my::nested::private_function()`");
-}
+ - Aye.
+ - Slippery.
+ - I get the bag.
+ - Mahwi
+ - I'm not the only one.
+ - Assurance
+ - Suzanna
+ 
