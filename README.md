@@ -1,4 +1,4 @@
-# rust-hub
+# RUST-HUB.
 A hub for rust advanced concepts.
 
 An inspiration from [Rust with examples]().
