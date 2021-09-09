@@ -1,7 +1,7 @@
 # RUST-HUB.
 A hub for rust advanced concepts.
 
-An inspiration from [Rust with examples]().
+An inspiration from [Rust By Example](https://doc.rust-lang.org/rust-by-example/).
 
 #### Basics 
 - [01. Hello World](https://github.com/divinirakiza/rust-hub/blob/main/01.%20hello-world/main.rs)
@@ -9,19 +9,21 @@ An inspiration from [Rust with examples]().
 - [03. Formatting](https://github.com/divinirakiza/rust-hub/blob/main/03.%20formatting/main.rs)
     - [01. Debug](https://github.com/divinirakiza/rust-hub/blob/main/03.%20formatting/01.%20debug/main.rs)
     - [02. Display](https://github.com/divinirakiza/rust-hub/blob/main/03.%20formatting/02.%20display/main.rs)
-- [04. Primitives](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-- [05. Custom Types](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-    - [01. Structures](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-    - [02. Enums](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-        - [01. Use](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-        - [02. C-like](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-        - [03. Enums](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-    - [03. Constants](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-- [06. Variable Bindings](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-    - [01. Mutability](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-    - [02. Scope and Shadowing](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-    - [03. Declare First](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)    
-    - [04. Freezing](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)    
+- [04. Primitives](https://github.com/divinirakiza/rust-hub/blob/main/04.%20primitives/main.rs)
+    - [01. Literals And Operators](https://github.com/divinirakiza/rust-hub/blob/main/04.%20primitives/01.%20literals-and-operators/main.rs)
+    - [02. Tuples](https://github.com/divinirakiza/rust-hub/blob/main/04.%20primitives/02.%20tuples/main.rs)
+    - [03. Arrays and Slices](https://github.com/divinirakiza/rust-hub/blob/main/04.%20primitives/03.%20arrays-and-slices/main.rs)
+- [05. Custom Types](https://github.com/divinirakiza/rust-hub/tree/main/05.%20custom-types)
+    - [01. Structures](https://github.com/divinirakiza/rust-hub/blob/main/05.%20custom-types/01.%20structures/main.rs)
+    - [02. Enums](https://github.com/divinirakiza/rust-hub/blob/main/05.%20custom-types/02.%20enums/main.rs)
+        - [01. Use](https://github.com/divinirakiza/rust-hub/blob/main/05.%20custom-types/02.%20enums/01.%20use/main.rs)
+        - [02. C-like](https://github.com/divinirakiza/rust-hub/blob/main/05.%20custom-types/02.%20enums/02.%20c-like/main.rs)
+    - [03. Constants](https://github.com/divinirakiza/rust-hub/blob/main/05.%20custom-types/03.%20constants/main.rs)
+- [06. Variable Bindings](https://github.com/divinirakiza/rust-hub/blob/main/06.%20variable-bindings/main.rs)
+    - [01. Mutability](https://github.com/divinirakiza/rust-hub/blob/main/06.%20variable-bindings/01.%20mutability/main.rs)
+    - [02. Scope and Shadowing](https://github.com/divinirakiza/rust-hub/blob/main/06.%20variable-bindings/02.%20scope-and-shadowing/main.rs)
+    - [03. Declare First](https://github.com/divinirakiza/rust-hub/blob/main/06.%20variable-bindings/03.%20declare-first/main.rs)    
+    - [04. Freezing](https://github.com/divinirakiza/rust-hub/blob/main/06.%20variable-bindings/04.%20freezing/main.rs)    
 
 #### Advanced
 
