@@ -26,12 +26,12 @@ A hub for Rust advanced concepts.
 
 #### Advanced
 
-- [07. Types](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-    - [01. Casting](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-    - [02. Literals](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
-    - [03. Inference](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)    
-    - [04. Aliasing](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)    
-- [08. Expressions](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
+- [07. Types](https://github.com/divinirakiza/rust-hub/tree/main/07.%20types)
+    - [01. Casting](https://github.com/divinirakiza/rust-hub/blob/main/07.%20types/01.%20casting/main.rs)
+    - [02. Literals](https://github.com/divinirakiza/rust-hub/blob/main/07.%20types/02.%20literals/main.rs)
+    - [03. Inference](https://github.com/divinirakiza/rust-hub/tree/main/07.%20types/03.%20inference/main.rs)    
+    - [04. Aliasing](https://github.com/divinirakiza/rust-hub/tree/main/07.%20types/04.%20aliasing/main.rs)    
+- [08. Expressions](https://github.com/divinirakiza/rust-hub/tree/main/08.%20expressions/main.rs)
 - [09. Flow of Control](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
     - [01. If-else](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
     - [02. Loop](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
