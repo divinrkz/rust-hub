@@ -1,7 +1,7 @@
 # RUST-HUB.
-A hub for rust advanced concepts.
+A hub for Rust advanced concepts.
 
-An inspiration from [Rust By Example](https://doc.rust-lang.org/rust-by-example/).
+###### An artistry from [Rust By Example](https://doc.rust-lang.org/rust-by-example/).
 
 #### Basics 
 - [01. Hello World](https://github.com/divinirakiza/rust-hub/blob/main/01.%20hello-world/main.rs)
