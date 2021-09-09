@@ -2,7 +2,7 @@
 A hub for rust advanced concepts.
 
 #### Basics 
-- [01. hello world](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
+- [01. hello world](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world/main.rsd)
 - [02. comments](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
 - [03. formatting](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
 - [04. primitives](https://github.com/divinirakiza/rust-hub/tree/main/01.%20hello-world)
