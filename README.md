@@ -1,6 +1,5 @@
 # RUST-HUB.
 A hub for Rust advanced concepts.
-
 ###### An artistry from [Rust By Example](https://doc.rust-lang.org/rust-by-example/).
 
 #### Basics 
