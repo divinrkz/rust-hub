@@ -67,7 +67,7 @@ A hub for Rust advanced concepts.
     - [05. File Hierarchy](https://github.com/divinirakiza/rust-hub/blob/main/11.%20modules/05.%20file-hierarchy/main.rs)
 - [12. Crates](https://github.com/divinirakiza/rust-hub/blob/main/12.%20crates/main.rs)
 - [13. Cargo](https://github.com/divinirakiza/rust-hub/blob/main/13.%20Cargo/main.rs)
-- [14. Attributes](hhttps://github.com/divinirakiza/rust-hub/blob/main/14.%20attributes/main.rs)
+- [14. Attributes](https://github.com/divinirakiza/rust-hub/blob/main/14.%20attributes/main.rs)
     - [01. Dead Code](https://github.com/divinirakiza/rust-hub/blob/main/14.%20attributes/01.%20dead_code/main.rs)
     - [02. Crates](https://github.com/divinirakiza/rust-hub/blob/main/14.%20attributes/02.%20crates/main.rs)
     - [03. Cfg](https://github.com/divinirakiza/rust-hub/blob/main/14.%20attributes/03.%20cfg/main.rs)
